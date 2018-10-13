@@ -2,8 +2,7 @@
 A repo for my favorite custom bash_profile
 -----
 ## The Creme De La Creme
-`lwd` is a simple function that will first check to see if any arguments where passed. If so then it changes the directory to the given argument. Additionally regardless of whether or not the dir is changed the "new" or current dir is printed along with the list from the modified version of `ls`.Honestly once you start using this command you will never go back.
-
+`lwd` is a simple function. If a relative directory path is given tt changes the directory to the given argument. Additionally, the directory path is printed along with the list from the modified version of `ls`. Honestly once you start using this command you will never go back. This command is the entire reason I never use a GUI file explorer anymore. 
 
 ## Other Custom Commands and stuff
 `my_function` simply changes the shell prompt to that fancy aribic char that I like
@@ -18,4 +17,4 @@ A repo for my favorite custom bash_profile
 
 `....` works like "cd ../.."
 
-`rebash` will resource your bash profile, very hand if you are like me and like to break things
+`rebash` will resource your bash profile, very handy if you are like me and like to break things
