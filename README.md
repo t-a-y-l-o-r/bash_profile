@@ -17,3 +17,5 @@ A repo for my favorite custom bash_profile
 `..` works like "cd .."
 
 `....` works like "cd ../.."
+
+`rebash` will resource your bash profile, very hand if you are like me and like to break things
